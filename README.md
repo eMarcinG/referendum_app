@@ -1,2 +1,4 @@
-# referendum_app
-referendum_app
+# Ignorowanie plików .pyc
+*.pyc
+__pycache__/
+
